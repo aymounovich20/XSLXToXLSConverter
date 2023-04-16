@@ -1,0 +1,4 @@
+JVMJ9VM135W /proc/sys/kernel/core_pattern setting "|/usr/libexec/abrt-hook-ccpp %s %c %p %u %g %t e %P %I %h" specifies that core dumps are to be piped to an external program. The JVM may be unable to locate core dumps and rename them.
+************ Start Display Current Environment ************
+Log file started at: [3/3/23 13:51:19:030 CET]
+************* End Display Current Environment *************
